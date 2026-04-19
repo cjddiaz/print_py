@@ -79,3 +79,4 @@ if sys.platform == 'darwin':
             'NSPrincipalClass': 'NSApplication',
         },
     )
+
